@@ -1,3 +1,3 @@
 # scala-designpatterns
 
-A comparison between design Patterns in Java and Scala 
+Java and Scala Design Patterns compared (sandbox)
